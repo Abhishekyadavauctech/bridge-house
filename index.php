@@ -258,7 +258,7 @@
          </section>
          <!-- ==== / procedure section end ==== -->
 
-                  <!-- ==== service section start ==== -->
+         <!-- ==== service section start ==== -->
          <section class="service" data-background="assets/images/background/service-bg.png">
             <div class="container">
                <div class="row justify-content-center">

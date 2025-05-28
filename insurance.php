@@ -9,7 +9,7 @@
       <link rel="shortcut icon" href="assets\images\bridge house.svg" type="image/x-icon">
       <link rel="icon" href="assets\images\bridge house.svg" type="image/x-icon">
       <!-- #title -->
-      <title>Bridge House | About Us</title>
+      <title>Bridge House | Insurance</title>
       <!-- #keywords -->
       <meta name="keywords" content="">
       <!-- #description -->
@@ -47,14 +47,14 @@
                <div class="row">
                   <div class="col-12">
                      <div class="common-banner__inner">
-                        <h2 class="title-animation">About Us</h2>
+                        <h2 class="title-animation">Insurance </h2>
                         <nav aria-label="breadcrumb">
                            <ol class="breadcrumb">
                               <li class="breadcrumb-item">
                                  <a href="#">Home</a>
                               </li>
                               <li class="breadcrumb-item active" aria-current="page">
-                                 About Us
+                                 Insurance
                               </li>
                            </ol>
                         </nav>

@@ -6,10 +6,10 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <!-- #favicon -->
-      <link rel="shortcut icon" href="assets\images\bridge house.svg" type="image/x-icon">
-      <link rel="icon" href="assets\images\bridge house.svg" type="image/x-icon">
+      <link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon">
+      <link rel="icon" href="assets/images/favicon.svg" type="image/x-icon">
       <!-- #title -->
-      <title>Bridge House | About Us</title>
+      <title>Landsquare Townships | About Us</title>
       <!-- #keywords -->
       <meta name="keywords" content="">
       <!-- #description -->
@@ -51,7 +51,7 @@
                         <nav aria-label="breadcrumb">
                            <ol class="breadcrumb">
                               <li class="breadcrumb-item">
-                                 <a href="#">Home</a>
+                                 <a href="https://landsquaretownships.in/">Home</a>
                               </li>
                               <li class="breadcrumb-item active" aria-current="page">
                                  About Us
@@ -71,9 +71,9 @@
                <div class="row vertical-column-gap-lg">
                   <div class="col-12 col-xl-6">
                      <div class="about__content">
-                        <div class="section__header mb-3">
+                        <div class="section__header">
                            <span>About Us</span>
-                           <h2 class="title-animation">Welcome To Bridge House
+                           <h2 class="title-animation">Welcome To Landsquare Townships
                            </h2>
                            <div class="icon-thumb">
                               <div class="icon-thumb-single">
@@ -83,29 +83,26 @@
                               <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
                            </div>
                         </div>
-                        <div class="about__content-inner" >
-                           <p class="text-justify">
-                              Bridgehouse is a performance-driven marketing company that works across a wide range of sectors and services. From real estate to software, consumer products, and professional services, we specialize in helping businesses grow through powerful, result-oriented marketing strategies.
-                           </p >
-                           <p class="text-justify">
-                              Our unique model involves running our own ads for different vendors and delivering qualified leads that turn into customers. We believe in performance, not just promises.
+                        <div class="about__content-inner">
+                           <p>Landsquare Townships Private Limited is a real estate development company incorporated on 20th September 2018. Based in Lucknow, Uttar Pradesh, the company specializes in the buying, selling, renting, and operating of self-owned or leased real estate. This includes residential and commercial properties, land development, and the subdivision of real estate into smaller lots. Landsquare Townships also focuses on property management and leasing services.
                            </p>
-                           <div class="about__content-single mt-4" data-aos="fade-up" data-aos-duration="1200">
+                           <div class="about__content-single" data-aos="fade-up" data-aos-duration="1200">
                               <div class="thumb">
-                               <i > <img width="100" height="100" src="https://img.icons8.com/comic/100/1A1A1A/goal.png" alt="goal"/></i>
+                                 <i class="flaticon-mansion"></i>
                               </div>
                               <div class="content">
-                                 <h5>Marketing That Delivers</h5>
-                                 <p>We run high-converting campaigns that bring in real, ready-to-buy leads.</p>
+                                 <h5>Real Estate Development & Services</h5>
+                                 <p>Buying, selling, renting, and operating residential and commercial properties, along with land subdivision and development.</p>
                               </div>
                            </div>
-                           <div class="about__content-single mt-4" data-aos="fade-up" data-aos-duration="1200">
+                           <div class="about__content-single" data-aos="fade-up" data-aos-duration="1200"
+                              data-aos-delay="200">
                               <div class="thumb">
-                                <i><img width="100" height="100" src="https://img.icons8.com/external-others-pike-picture/100/1A1A1A/external-Universal-Expert-expert-others-pike-picture-2.png" alt=""/></i>     
+                                 <i class="flaticon-modern-house"></i>
                               </div>
                               <div class="content">
-                                 <h5>Experts in Every Industry</h5>
-                                 <p>Our team understands what works best across real estate, tech, services, and more.</p>
+                                 <h5>Property Management & Leasing</h5>
+                                 <p>Providing property management and leasing services to ensure efficient operation and tenant satisfaction.</p>
                               </div>
                            </div>
                         </div>
@@ -156,7 +153,12 @@
                         <div class="thumb-sm">
                            <img src="assets/images/thumb/who/thumb-sm.png" alt="Image" data-aos="zoom-in"
                               data-aos-duration="1200" data-aos-delay="200">
-                           
+                           <!-- <div class="video-btn-wrapper">
+                              <a href="https://www.youtube.com/watch?v=RvreULjnzFo" target="_blank"
+                                 title="video Player" class="open-video-popup">
+                              <i class="fa-solid fa-play"></i>
+                              </a>
+                           </div> -->
                         </div>
                      </div>
                   </div>
@@ -176,7 +178,7 @@
                            </div>
                         </div>
                         <div class="about__content-inner">
-                           <p>Bridge House is a results-driven marketing agency that partners with businesses to fuel growth through strategic, lead-focused campaigns. With expertise across industries like real estate, tech, and consumer services, we turn marketing into measurable success.
+                           <p>At Landsquare Townships, we are committed to offering you the best-in-class real estate services, tailored to meet all your property needs. Whether you're looking to buy, sell, rent, or develop property, we provide end-to-end solutions that make your real estate experience seamless, efficient, and profitable.
                            </p>
                            <div class="about-content__wrapper">
                               <div class="about__content-single">
@@ -196,7 +198,7 @@
                                  </div>
                               </div>
                            </div>
-                           <p>Bridge House helps brands connect with the right audience through smart, conversion-focused marketing. Our approach is simple — performance over promises, always. Whether you're in real estate, software, or services, we deliver campaigns that drive growth and visibility.
+                           <p>If you're looking to make the right choice for your real estate investments, contact Landsquare Townships today. We're here to help you navigate your real estate journey and provide the best services every step of the way.
                            </p>
                            <div class="cta">
                               <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
@@ -219,7 +221,7 @@
                   <div class="col-12">
                      <div class="section__header text-center">
                         <!-- <span>Steps of Procedure</span> -->
-                        <h2 class="title-animation">Why Choose Bridge House</h2>
+                        <h2 class="title-animation">Why Choose Landsquare Townships</h2>
                         <div class="icon-thumb justify-content-center">
                            <div class="icon-thumb-single">
                               <span></span>
@@ -241,12 +243,12 @@
                            <div class="col-12 col-md-6 col-xl-3">
                               <div class="procedure__single" data-aos="fade-up" data-aos-duration="1200">
                                  <div class="thumb">
-                                    
-                                     <i ><img width="80" height="80" src="https://img.icons8.com/dotty/80/1A1A1A/stocks-growth.png" alt=""/></i>
+                                    <i class="flaticon-realtor"></i>
                                  </div>
                                  <div class="content">
-                                    <h4> Strong Sales Strategy</h4>
-                                    <p>We know how to turn marketing into real, measurable sales.</p>
+                                    <h4>Expert guidance at every step</h4>
+                                    <p>Expert guidance at every step ensures informed decisions and smooth transactions.
+                                    </p>
                                  </div>
                               </div>
                            </div>
@@ -254,11 +256,11 @@
                               <div class="procedure__single procedure__single-alter" data-aos="fade-up"
                                  data-aos-duration="1200" data-aos-delay="200">
                                  <div class="thumb">
-                                    <i ><img width="80" height="80"  src="https://img.icons8.com/ios/1A1A1A/development-skill.png" alt=""/></i>
+                                    <i class="flaticon-selection"></i>
                                  </div>
                                  <div class="content">
-                                    <h4>Multi-Industry Expertise</h4>
-                                    <p>We market products and services across various sectors with proven success.
+                                    <h4>A wide range of quality properties</h4>
+                                    <p>A diverse selection of high-quality properties to suit every need.
                                     </p>
                                  </div>
                               </div>
@@ -267,11 +269,12 @@
                               <div class="procedure__single procedure__single-alter" data-aos="fade-up"
                                  data-aos-duration="1200" data-aos-delay="400">
                                  <div class="thumb">
-                                    <i ><img width="80" height="80" src="https://img.icons8.com/ios-filled/1A1A1A/conference.png" alt=""/></i>
+                                    <i class="flaticon-house-2"></i>
                                  </div>
                                  <div class="content">
-                                    <h4> Lead-Driven Results</h4>
-                                    <p>Our campaigns focus on generating quality leads that help you grow.</p>
+                                    <h4>Transparent and hassle-free process</h4>
+                                    <p>Clear, straightforward procedures ensuring a smooth, stress-free property experience.
+                                    </p>
                                  </div>
                               </div>
                            </div>
@@ -279,11 +282,12 @@
                               <div class="procedure__single" data-aos="fade-up" data-aos-duration="1200"
                                  data-aos-delay="600">
                                  <div class="thumb">
-                                   <i > <img width="80" height="80" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/1A1A1A/external-shield-user-interface-anggara-basic-outline-anggara-putra-3.png" alt=""/></i>
+                                    <i class="flaticon-rent-1"></i>
                                  </div>
                                  <div class="content">
-                                    <h4>Trusted by Vendors</h4>
-                                    <p>Vendors rely on us to boost visibility and drive performance.</p>
+                                    <h4>Quality Homes in Prime Locations</h4>
+                                    <p>Premium properties situated in the best locations for ideal living.
+                                    </p>
                                  </div>
                               </div>
                            </div>
@@ -337,12 +341,18 @@
                         <div class="thumb-four">
                            <img src="assets/images/thumb/collection/four.png" alt="Image">
                         </div>
+                        <!-- <div class="thumb-logo">
+                           <a href="index.html">
+                           <img src="assets/images/favs.png" alt="Image">
+                           </a>
+                           <img src="assets/images/thumb/collection/letter.png" alt="Image" class="letter">
+                        </div> -->
                      </div>
                   </div>
                   <div class="col-12 col-xl-5">
                      <div class="collection__content">
                         <div class="section__header">
-                           <h2 class="title-animation">Built to Serve Every Business Model
+                           <h2 class="title-animation">Your First Choice for Quality Living
                            </h2>
                            <div class="icon-thumb">
                               <div class="icon-thumb-single">
@@ -353,13 +363,16 @@
                            </div>
                         </div>
                         <div class="inner">
+                           <!-- <h4>We Provide You Best Services for Landsquare Townships -->
+                           </h4>
                            <div class="group" data-aos="fade-up" data-aos-duration="1200">
                               <div class="thumb">
                                  <i class="flaticon-house-2"></i>
                               </div>
                               <div class="content">
-                                 <h4>Innovation-Led Approach</h4>
-                                 <p>Innovation and insight drive our approach in all sectors we touch.</p>
+                                 <h4>Premium Quality Properties</h4>
+                                 <p>High-end homes and commercial spaces designed for comfort and luxury. 
+                                 </p>
                               </div>
                            </div>
                            <div class="group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
@@ -367,8 +380,9 @@
                                  <i class="flaticon-shield"></i>
                               </div>
                               <div class="content">
-                                 <h4>Audience-Driven Execution</h4>
-                                 <p>No matter the field, we help you connect, engage, and convert your audience.</p>
+                                 <h4>Prime Locations</h4>
+                                 <p>Properties in well-connected, high-demand areas for convenient living. 
+                                 </p>
                               </div>
                            </div>
                            <div class="group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
@@ -376,8 +390,8 @@
                                  <i class="flaticon-location"></i>
                               </div>
                               <div class="content">
-                                 <h4>Support for All Business Sizes</h4>
-                                 <p>From startups to established firms, we support all with equal expertise.</p> 
+                                 <h4>Investment Potential</h4>
+                                 <p>Properties in growth areas, offering long-term value and returns.</p> 
                                  
                               </div>
                            </div>
@@ -389,7 +403,7 @@
          </section>
          <!-- ==== / collection section end ==== -->
          <!-- ==== testimonial section start ==== -->
-         <section class="testimonial" style=" margin-bottom:100px">
+         <section class="testimonial">
             <div class="testimonial__thumb">
                <img src="assets/images/testimonial/thumbnail.png" alt="Image" class="w-100 mh-400 parallax-image">
             </div>
@@ -403,7 +417,7 @@
                               <div class="testimonial__single">
                                  <div class="section__header">
                                     <span>Testimonial</span>
-                                    <h2 class="title-animation">Reviews Of
+                                    <h2 class="title-animation">Review
                                        Our Clients
                                     </h2>
                                     <div class="icon-thumb">
@@ -433,12 +447,12 @@
                                                    <i class="fa-regular fa-star"></i>
                                                    <i class="fa-regular fa-star"></i>
                                                 </div>
-                                                <p>Real Estate Developer</p>
-                                                <h5>Amit Kapoor</h5>
+                                                <p>Happy Client</p>
+                                                <h5>Rohit</h5>
                                              </div>
                                           </div>
                                           <div class="content">
-                                             <blockquote>Bridgehouse helped us double our leads in just two months — they truly understand how to market and sell.
+                                             <blockquote>"Landsquare made buying our new home such an easy and seamless process. The team was professional and guided us every step of the way. Highly recommend!"
                                              </blockquote>
                                           </div>
                                        </div>
@@ -457,12 +471,12 @@
                                                    <i class="fa-regular fa-star"></i>
                                                    <i class="fa-regular fa-star"></i>
                                                 </div>
-                                                <p>SaaS Product Manager</p>
-                                                <h5>Neha Sharma</h5>
+                                                <p>Happy Client</p>
+                                                <h5>Kavita</h5>
                                              </div>
                                           </div>
                                           <div class="content">
-                                             <blockquote>Their strategies are sharp, creative, and always results-driven. Highly recommend them!
+                                             <blockquote>"A truly great experience! The property options at Landsquare are incredible, and we found exactly what we were looking for. Their customer service is top-notch!"
                                              </blockquote>
                                           </div>
                                        </div>
@@ -481,12 +495,12 @@
                                                    <i class="fa-regular fa-star"></i>
                                                    <i class="fa-regular fa-star"></i>
                                                 </div>
-                                                <p>Local Service Provider</p>
-                                                <h5> Sana Qureshi</h5>
+                                                <p>Happy Client</p>
+                                                <h5>Adarsh</h5>
                                              </div>
                                           </div>
                                           <div class="content">
-                                             <blockquote>Professional, fast, and always on point. Their team knows exactly how to grow a business.
+                                             <blockquote>"Working with Landsquare was a game-changer. Their expertise in the real estate market made all the difference. Will definitely return for future investments."
                                              </blockquote>
                                           </div>
                                        </div>

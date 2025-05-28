@@ -8,10 +8,10 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <!-- #favicon -->
-   <link rel="shortcut icon" href="assets\images\bridge house.svg" type="image/x-icon">
-   <link rel="icon" href="assets\images\bridge house.svg" type="image/x-icon">
+   <link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon">
+   <link rel="icon" href="assets/images/favicon.svg" type="image/x-icon">
    <!-- #title -->
-   <title>Bridge House | Contact Us</title>
+   <title>Landsquare Townships | Contact Us</title>
    <!-- #keywords -->
    <meta name="keywords" content="">
    <!-- #description -->
@@ -32,16 +32,6 @@
      .form-control {
         width:100% !important;
       }
-      .input-group input, .input-group textarea{
-         border-radius:10px;
-      }
-      .contact .contact__content-single ul a {
-    font-size: 15px;
-    color: var(--quaternary-color);
-}
-.input-group textarea {
-    min-height: 180px;
-}
    </style>
 </head>
 
@@ -69,7 +59,7 @@
                      <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                            <li class="breadcrumb-item">
-                              <a href="#">Home</a>
+                              <a href="https://landsquaretownships.in/">Home</a>
                            </li>
                            <li class="breadcrumb-item active" aria-current="page">
                               Contact Us
@@ -90,17 +80,18 @@
                   <div class="contact__content">
 
                      <div class="contact__content-single">
-                        <h2 class="title-animation fs-4"> Get In Touch With Us</h2>
+                        <h2 class="title-animation fs-4"> Contact With Us Any Time.</h2>
                         <ul>
-                           <li><a href="#" target="_blank"><i class="fa-solid fa-location-dot text-primary"></i>  1 Floor 1/357 Vijayant khand
-                                    Gomati nagar 226010
+                           <li><a href="#" target="_blank"><i class="fa-solid fa-location-dot text-primary"></i> First Floor, Chinhat Height, Chinhat
+                                 Tiraha, Lucknow, India, 226028B.
                               </a>
                            </li>
-                           <li><a href="tel:919919487700"><i class="fa-solid fa-phone-flip text-primary"> </i>+91 9919487700
+                           <li><a href="tel:2305-587-3407"><i class="fa-solid fa-phone-flip text-primary"> </i>+91
+                                 7393070069
                               </a>
                            </li>
-                           <li><a href="mailto:info@bridgehouse.in"><i
-                                    class="fa-regular fa-envelope text-primary"></i> info@bridgehouse.in
+                           <li><a href="mailto:landsquaretownships@gmail.com"><i
+                                    class="fa-regular fa-envelope text-primary"></i> landsquaretownships@gmail.com
                               </a>
                            </li>
                         </ul>
@@ -108,15 +99,15 @@
                      <div class="contact__social contact__content-single">
                         <h4>Social Media:</h4>
                         <div class="social">
-                           <a href="#" target="_blank" aria-label="share us on facebook"
+                           <a href="https://www.facebook.com/landsquareofficial" target="_blank" aria-label="share us on facebook"
                               title="facebook">
                               <i class="flaticon-facebook"></i>
                            </a>
-                           <a href="#" target="_blank" aria-label="share us on twitter"
+                           <a href="https://x.com/Landsquare_" target="_blank" aria-label="share us on twitter"
                               title="twitter">
                               <i class="fa-brands fa-x-twitter"></i>
                            </a>
-                           <a href="#" target="_blank" aria-label="share us on instagram"
+                           <a href="https://www.instagram.com/landsquaretownships" target="_blank" aria-label="share us on instagram"
                               title="instagram">
                               <i class="flaticon-instagram"></i>
                            </a>
@@ -126,27 +117,19 @@
                </div>
                <div class="col-12 col-lg-7">
                   <div class="contact__form">
-                     <span class="text-primary text-bold mb-3">Contact Us</span>
+                     <span class="text-primary text-bold mb-3">Get A Quote</span>
                      <form amethod="POST" action="save_contact.php" id="enquiryForm">
                         <div class="input-group" data-aos="fade-up" data-aos-duration="1200">
                            <div class="input-single">
-                              <input type="text" name="fname" id="fname" placeholder="First Name" required >
+                              <input type="text" name="name" id="name" placeholder="Name" required >
                            </div>
                            <div class="input-single">
-                              <input type="text" name="lname" id="lname" placeholder="Last Name" >
-                           </div>
-                        </div>
-                        <div class="input-group" data-aos="fade-up" data-aos-duration="1200">
-                           <div class="input-single">
-                              <input type="email" name="email" id="email" placeholder="Email" required >
-                           </div>
-                           <div class="input-single">
-                              <input type="number" name="phone" id="phone" placeholder="Phone Number" >
+                              <input type="email" name="email" id="email" placeholder="Email" >
                            </div>
                         </div>
                         <div class="input-group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" >
                           
-                              <input type="number" name="address" id="address" placeholder="Address" class="form-control" required>
+                              <input type="number" name="phone" id="phone" placeholder="Number" class="form-control" required>
                            
                         </div>
                         <div class="input-group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
@@ -168,7 +151,10 @@
             <div class="row justify-content-center">
                <div class="col-12 col-xl-5 col-xl-12">
                   <div class="contact__map" data-aos="zoom-in" data-aos-duration="1200">
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.1488145273643!2d81.01756867612079!3d26.867012662051746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be2928071fa67%3A0x63e28bb34875f19f!2s1%2C%201%2F73%2C%20near%20Varan%20Jewellers%2C%20Vijayant%20Khand%2C%20Gomti%20Nagar%2C%20Lucknow%2C%20Uttar%20Pradesh%20226010!5e0!3m2!1sen!2sin!4v1748351002726!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                     <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7117.803862631669!2d81.01689287770996!3d26.87485670000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be3ffb81c08b1%3A0xe7f5e84b9d803b69!2sFuture%20Care%20Lab!5e0!3m2!1sen!2sin!4v1731743246012!5m2!1sen!2sin"
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
                   </div>
                </div>
             </div>

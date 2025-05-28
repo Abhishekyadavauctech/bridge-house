@@ -148,12 +148,12 @@
                      <div class="navbar__menu d-none d-xl-block">
                         <ul class="navbar__list">
                            <li class="navbar__item nav-fade">
-                              <a href="#">Home</a>
+                              <a href="index.php">Home</a>
                              
                            </li>
 
                             <li class="navbar__item nav-fade">
-                              <a href="#" >About Us</a>
+                              <a href="about-us.php" >About Us</a>
                            </li>
                            <li class="navbar__item navbar__item--has-children nav-fade">
                               <a href="#" aria-label="dropdown menu"
@@ -161,27 +161,27 @@
                               </a>
                               <ul class="navbar__sub-menu">
                                  <li>
-                                    <a href="">Real Estate</a>
+                                    <a href="real-estate.php">Real Estate</a>
                                  </li>
                                  <li>
-                                    <a href="">Insurance</a>
+                                    <a href="insurance.php">Insurance</a>
                                  </li>
                                  <li>
-                                    <a href="">Finance</a>
+                                    <a href="finance.php">Finance</a>
                                  </li>
                                  <li>
-                                    <a href="#">Investment</a>
+                                    <a href="investment.php">Investment</a>
                                  </li>
                                  <li>
-                                    <a href="#">IT</a>
+                                    <a href="it.php">IT</a>
                                  </li>
                                   <li>
-                                    <a href="#">Legal</a>
+                                    <a href="legal.php">Legal</a>
                                  </li>
                               </ul>
                            </li>
                            <li class="navbar__item nav-fade">
-                              <a href="">Work With Us</a>
+                              <a href="#">Work With Us</a>
                            </li>
                            
                            <li class="navbar__item nav-fade">
@@ -189,7 +189,7 @@
                              
                            </li>
                            <li class="navbar__item nav-fade">
-                              <a href="#">Contact</a>
+                              <a href="contact-us.php">Contact</a>
                            </li>
                             <li class="navbar__item nav-fade d-flex d-xl-none">
                               <a target="_blank" href="https://crm.bridgehouse.in/"><img width="28" height="28" src="https://img.icons8.com/sf-regular/48/0000/login-rounded-right.png" alt="login-rounded-right"/> Login</a>

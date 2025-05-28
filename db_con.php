@@ -1,8 +1,8 @@
 <?php
    $servername = "localhost";
-   $username = "u622085619_bridgehouse_db";
-   $password = "Auctech@123";
-   $database = "u622085619_bridgehouse_db";
+   $username = "root";
+   $password = "";
+   $database = "bridgehouse_db";
 
    $con = new mysqli ($servername, $username, $password, $database);
 

@@ -9,7 +9,7 @@
       <link rel="shortcut icon" href="assets\images\bridge house.svg" type="image/x-icon">
       <link rel="icon" href="assets\images\bridge house.svg" type="image/x-icon">
       <!-- #title -->
-      <title>Bridge House | About Us</title>
+      <title>Bridge House | Real Estate</title>
       <!-- #keywords -->
       <meta name="keywords" content="">
       <!-- #description -->
@@ -47,14 +47,14 @@
                <div class="row">
                   <div class="col-12">
                      <div class="common-banner__inner">
-                        <h2 class="title-animation">About Us</h2>
+                        <h2 class="title-animation">Real Estate</h2>
                         <nav aria-label="breadcrumb">
                            <ol class="breadcrumb">
                               <li class="breadcrumb-item">
                                  <a href="#">Home</a>
                               </li>
                               <li class="breadcrumb-item active" aria-current="page">
-                                 About Us
+                                 Real Estate
                               </li>
                            </ol>
                         </nav>
@@ -65,7 +65,162 @@
          </section>
          <!-- ==== / banner end ==== -->
          <!-- ==== about us section start ==== -->
-         <!-- ==== about us section start ==== -->
+         
+         <!-- ==== / about us section end ==== -->
+         <!-- ==== who we are section start ==== -->
+         <section class="who">
+            <div class="container">
+               <div class="row vertical-column-gap">
+                  <div class="col-12 col-xl-6">
+                     <div class="who__thumb">
+                        <div class="thumb-lg" data-aos="zoom-in" data-aos-duration="1200">
+                           <img src="assets/images/thumb/who/thumb-lg.png" alt="Image">
+                        </div>
+                        <div class="thumb-sm">
+                           <img src="assets/images/thumb/who/thumb-sm.png" alt="Image" data-aos="zoom-in"
+                              data-aos-duration="1200" data-aos-delay="200">
+                           
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-xl-6">
+                     <div class="who__content">
+                        <div class="section__header">
+                           <span>Real Estate</span>
+                           <h2 class="title-animation">Real Estate Marketing That Delivers Results
+                           </h2>
+                           <div class="icon-thumb">
+                              <div class="icon-thumb-single">
+                                 <span></span>
+                                 <span></span>
+                              </div>
+                              <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
+                           </div>
+                        </div>
+                        <div class="about__content-inner">
+                           <p>At Bridge House, we help real estate brands generate qualified leads, increase visibility, and close deals faster. Whether you're a builder, broker, or developer, our performance-driven marketing campaigns are designed to attract serious buyers and deliver measurable results.
+                           </p>
+                           <div class="about-content__wrapper">
+                              <div class="about__content-single">
+                                 <div class="thumb">
+                                    <i class="flaticon-mansion"></i>
+                                 </div>
+                                 <div class="content">
+                                    <h6>Targeted Advertising</h6>
+                                 </div>
+                              </div>
+                              <div class="about__content-single">
+                                 <div class="thumb">
+                                    <i class="flaticon-modern-house"></i>
+                                 </div>
+                                 <div class="content">
+                                    <h6> Digital Ads & Campaigns </h6>
+                                 </div>
+                              </div>
+                           </div>
+                           <p>At Bridge House, we specialize in driving growth for real estate businesses through strategic marketing that works. From digital campaigns to local targeting, we connect your properties with the right buyers—boosting inquiries, site visits, and sales with proven results.
+                           </p>
+                           <div class="cta">
+                              <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="z-shape d-none d-xl-block"></div>
+            <div class="z-shape-l d-none d-xl-block"></div>
+            <div class="z-shape-s d-none d-xl-block"></div>
+            <div class="z-shape-sq d-none d-xl-block"></div>
+         </section>
+         <!-- ==== / who we are section end ==== -->
+          <!-- ==== service section start ==== -->
+         <section class="service" data-background="assets/images/background/service-bg.png">
+            <div class="container">
+               <div class="row justify-content-center">
+                  <div class="col-12 col-xl-5">
+                     <div class="section__header text-center">
+                        <span>Our Services</span>
+                        <h2 class="title-animation">High-Impact Services to Promote Your Projects</h2>
+                        <div class="icon-thumb justify-content-center">
+                           <div class="icon-thumb-single">
+                              <span></span>
+                              <span></span>
+                           </div>
+                           <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
+                           <div class="icon-thumb-single">
+                              <span></span>
+                              <span></span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row vertical-column-gap-sm justify-content-center">
+                  
+                  <div class="col-12 col-lg-4 col-xl-4 order-3 order-lg-2">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200"
+                        data-aos-delay="200">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">Property Showcasing</a></h4>
+                           <p>High-quality images, walkthrough videos, and virtual tours that highlight every detail of your project.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 order-2 order-lg-3">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">Digital Ads & Campaigns</a></h4>
+                           <p>We run customized campaigns on platforms like Google, Facebook, and Instagram to reach genuine property buyers.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 order-2 order-lg-3">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">Local SEO & Google Presence</a></h4>
+                           <p>Promoting software products to grow users and boost your brand presence.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 order-2 order-lg-3">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#"> Lead Generation</a></h4>
+                           <p> We run targeted ad campaigns to deliver genuine buyer leads — not just clicks or casual interest.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200">
+                        <div class="thumb">
+                            <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">WhatsApp & CRM Integration</a></h4>
+                           <p>Capture inquiries directly through WhatsApp and manage leads effortlessly through CRM tools.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <!-- ==== / service section end ==== -->
+          <!-- ==== about us section start ==== -->
          <section class="about">
             <div class="container">
                <div class="row vertical-column-gap-lg">
@@ -143,75 +298,6 @@
             </div>
          </section>
          <!-- ==== / about us section end ==== -->
-         <!-- ==== / about us section end ==== -->
-         <!-- ==== who we are section start ==== -->
-         <section class="who">
-            <div class="container">
-               <div class="row vertical-column-gap">
-                  <div class="col-12 col-xl-6">
-                     <div class="who__thumb">
-                        <div class="thumb-lg" data-aos="zoom-in" data-aos-duration="1200">
-                           <img src="assets/images/thumb/who/thumb-lg.png" alt="Image">
-                        </div>
-                        <div class="thumb-sm">
-                           <img src="assets/images/thumb/who/thumb-sm.png" alt="Image" data-aos="zoom-in"
-                              data-aos-duration="1200" data-aos-delay="200">
-                           
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-12 col-xl-6">
-                     <div class="who__content">
-                        <div class="section__header">
-                           <span>Who We Are</span>
-                           <h2 class="title-animation">We Provide You Best Service
-                              Of Landsquare Townships 
-                           </h2>
-                           <div class="icon-thumb">
-                              <div class="icon-thumb-single">
-                                 <span></span>
-                                 <span></span>
-                              </div>
-                              <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
-                           </div>
-                        </div>
-                        <div class="about__content-inner">
-                           <p>Bridge House is a results-driven marketing agency that partners with businesses to fuel growth through strategic, lead-focused campaigns. With expertise across industries like real estate, tech, and consumer services, we turn marketing into measurable success.
-                           </p>
-                           <div class="about-content__wrapper">
-                              <div class="about__content-single">
-                                 <div class="thumb">
-                                    <i class="flaticon-mansion"></i>
-                                 </div>
-                                 <div class="content">
-                                    <h6>Tailored Real Estate Solutions</h6>
-                                 </div>
-                              </div>
-                              <div class="about__content-single">
-                                 <div class="thumb">
-                                    <i class="flaticon-modern-house"></i>
-                                 </div>
-                                 <div class="content">
-                                    <h6>Land Development </h6>
-                                 </div>
-                              </div>
-                           </div>
-                           <p>Bridge House helps brands connect with the right audience through smart, conversion-focused marketing. Our approach is simple — performance over promises, always. Whether you're in real estate, software, or services, we deliver campaigns that drive growth and visibility.
-                           </p>
-                           <div class="cta">
-                              <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="z-shape d-none d-xl-block"></div>
-            <div class="z-shape-l d-none d-xl-block"></div>
-            <div class="z-shape-s d-none d-xl-block"></div>
-            <div class="z-shape-sq d-none d-xl-block"></div>
-         </section>
-         <!-- ==== / who we are section end ==== -->
          <!-- ==== procedure section start ==== -->
          <section class="procedure">
             <div class="container">

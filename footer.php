@@ -46,7 +46,7 @@
                                     Gomati nagar 226010
                                 </a>
                             </li>
-                            <li><a href="tel:9919487700"><i class="fa-solid fa-phone-flip"></i>+91 99194 87700</a>
+                            <li><a href="tel:9919487700"><i class="fa-solid fa-phone-flip"></i>+91 9919487700</a>
                             </li>
                             <li><a href="mailto:info@bridgehouse.in"><i
                                         class="fa-regular fa-envelope"></i>info@bridgehouse.in</a></li>
