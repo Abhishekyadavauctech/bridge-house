@@ -104,7 +104,7 @@
 
       .contact-form {
          padding: 0px 0px 0px;
-         
+
       }
    </style>
 </head>
@@ -196,13 +196,14 @@
                               <input type="text" name="name" id="name" placeholder="Enter Your Full Name" required>
                            </div>
                            <div class="input-single">
-                              <input type="number" name="phone" id="phone" placeholder="Enter Your Phone Number">
+                              <input type="text" name="phone" id="phone" placeholder="Enter Your Phone Number"
+                                 maxlength="10">
                            </div>
                         </div>
 
                         <div class="input-group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
-                           <input type="email" name="email" id="email" placeholder="Enter Your Address" class="form-control"
-                              required>
+                           <input type="email" name="email" id="email" placeholder="Enter Your Address"
+                              class="form-control" required>
                         </div>
                         <div class="input-group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                            <textarea name="message" id="Message" placeholder="Type Message..."></textarea>
@@ -291,6 +292,17 @@
          $('#enquiryForm').submit(function (e) {
             e.preventDefault();
 
+            var phone = $('#phone').val();
+            var phoneRegex = /^[0-9]{10}$/;
+            if (!phoneRegex.test(phone)) {
+               Swal.fire({
+                  icon: 'error',
+                  title: 'Invalid Phone Number',
+                  text: 'Please enter a valid 10-digit phone number.',
+               });
+               return;
+            }
+
             var formData = $(this).serialize();
 
             console.log('Form Data:', formData);
@@ -303,17 +315,14 @@
                   console.log('Response:', response);
 
                   if (response == 'success') {
-
                      Swal.fire({
                         icon: 'success',
                         title: 'Thank You!',
                         text: 'Your message has been sent successfully.',
                      }).then(function () {
-
                         $('#enquiryForm')[0].reset();
                      });
                   } else {
-
                      Swal.fire({
                         icon: 'error',
                         title: 'Oops...',
@@ -332,6 +341,7 @@
             });
          });
       });
+
    </script>
 </body>
 
