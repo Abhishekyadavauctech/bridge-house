@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width initial-scale=1.0">
     <title>Admin Dashboard</title>
     
-    <link rel="icon" type="image/png" href="./assets/img/favicon.jpg"/>
+    <link rel="icon" type="image/png" href="assets/img/logo.png"/>
     <!-- GLOBAL MAINLY STYLES-->
     <link href="./assets/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="./assets/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
@@ -86,6 +86,31 @@
                             </li>
                         </ul>
                     </li>
+                    <li class="mt-3">
+                        <a href="javascript:;"><i class="sidebar-item-icon"><img width="30" height="30" src="https://img.icons8.com/ios-filled/50/FFFFFF/google-blog-search.png"/></i>
+                            <span class="nav-label">Blogs</span><i class="fa fa-angle-left arrow"></i></a>
+                        <ul class="nav-2-level collapse">
+                            <li>
+                                <a href="add_blog">Add New Blog </a>
+                            </li>
+                            <li>
+                                <a href="blog_list">Blog List</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="mt-3">
+                        <a href="javascript:;"><i class="sidebar-item-icon"><img width="30" height="30" src="https://img.icons8.com/ios-filled/50/FFFFFF/google-blog-search.png"/></i>
+                            <span class="nav-label">Testimonials</span><i class="fa fa-angle-left arrow"></i></a>
+                        <ul class="nav-2-level collapse">
+                            <li>
+                                <a href="add_testimonial">Add New Testimonial </a>
+                            </li>
+                            <li>
+                                <a href="testimonials_list">Testimonial List</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
                     <li class="mt-2">
                         <a class="" href="querylist"><i class="sidebar-item-icon"><img width="30" height="30" src="https://img.icons8.com/ios-filled/50/FFFFFF/ask-question.png" alt="ask-question"/></i>
                             <span class="nav-label">Query List</span>

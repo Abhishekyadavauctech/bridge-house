@@ -2,7 +2,7 @@
    $servername = "localhost";
    $username = "root";
    $password = "";
-   $database = "bridgehouse_db";
+   $database = "bridge_db";
 
    $con = new mysqli ($servername, $username, $password, $database);
 
