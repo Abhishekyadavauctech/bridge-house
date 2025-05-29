@@ -29,19 +29,83 @@
    <!-- jquery -->
    <script src="assets/js/jquery-3.7.1.min.js"></script>
    <style>
-     .form-control {
-        width:100% !important;
+      .form-control {
+         width: 100% !important;
       }
-      .input-group input, .input-group textarea{
-         border-radius:10px;
+
+      .input-group input,
+      .input-group textarea {
+         border-radius: 6px;
+         height: 56px;
       }
+
       .contact .contact__content-single ul a {
-    font-size: 15px;
-    color: var(--quaternary-color);
-}
-.input-group textarea {
-    min-height: 180px;
-}
+         font-size: 15px;
+         color: var(--quaternary-color);
+      }
+
+      .input-group textarea {
+         min-height: 180px;
+      }
+
+      .contact__content {
+         background: #ff00000a;
+         padding: 50px;
+         height: 500px;
+      }
+
+      .fa-solid,
+      .fas {
+         font-weight: 900;
+         background: red;
+         padding: 8px 10px;
+
+         color: white;
+         border-radius: 25px;
+      }
+
+      .fa-phone-flip {
+         padding: 8px;
+      }
+
+      .fa-regular,
+      .far {
+         font-weight: 900;
+         background: red;
+         padding: 8px;
+         color: white;
+         border-radius: 25px;
+      }
+
+      .contact .contact__content-single ul li {
+         margin-bottom: 34px;
+         font-size: 16px;
+      }
+
+      .contact .contact__content-single ul {
+         max-width: 300px;
+         margin-top: 32px;
+      }
+
+      .contact .contact__content-single {
+         margin-top: 98px;
+      }
+
+      .input-group input,
+      .input-group textarea {
+         border: 1px solid #70707054;
+      }
+
+      .text-primary {
+         --bs-text-opacity: 1;
+         color: #ee3c3e !important;
+         font-size: 20px;
+      }
+
+      .contact-form {
+         padding: 0px 0px 0px;
+         
+      }
    </style>
 </head>
 
@@ -92,15 +156,17 @@
                      <div class="contact__content-single">
                         <h2 class="title-animation fs-4"> Get In Touch With Us</h2>
                         <ul>
-                           <li><a href="#" target="_blank"><i class="fa-solid fa-location-dot text-primary"></i>  1 Floor 1/357 Vijayant khand
-                                    Gomati nagar 226010
+                           <li><a href="#" target="_blank"><i class="fa-solid fa-location-dot"></i> 1 Floor
+                                 1/357 Vijayant khand
+                                 Gomati nagar 226010
                               </a>
                            </li>
-                           <li><a href="tel:919919487700"><i class="fa-solid fa-phone-flip text-primary"> </i>+91 9919487700
+                           <li><a href="tel:919919487700"><i class="fa-solid fa-phone-flip"> </i>+91
+                                 9919487700
                               </a>
                            </li>
-                           <li><a href="mailto:info@bridgehouse.in"><i
-                                    class="fa-regular fa-envelope text-primary"></i> info@bridgehouse.in
+                           <li><a href="mailto:info@bridgehouse.in"><i class="fa-regular fa-envelope"></i>
+                                 info@bridgehouse.in
                               </a>
                            </li>
                         </ul>
@@ -108,16 +174,13 @@
                      <div class="contact__social contact__content-single">
                         <h4>Social Media:</h4>
                         <div class="social">
-                           <a href="#" target="_blank" aria-label="share us on facebook"
-                              title="facebook">
+                           <a href="#" target="_blank" aria-label="share us on facebook" title="facebook">
                               <i class="flaticon-facebook"></i>
                            </a>
-                           <a href="#" target="_blank" aria-label="share us on twitter"
-                              title="twitter">
+                           <a href="#" target="_blank" aria-label="share us on twitter" title="twitter">
                               <i class="fa-brands fa-x-twitter"></i>
                            </a>
-                           <a href="#" target="_blank" aria-label="share us on instagram"
-                              title="instagram">
+                           <a href="#" target="_blank" aria-label="share us on instagram" title="instagram">
                               <i class="flaticon-instagram"></i>
                            </a>
                         </div>
@@ -130,30 +193,22 @@
                      <form amethod="POST" action="save_contact.php" id="enquiryForm">
                         <div class="input-group" data-aos="fade-up" data-aos-duration="1200">
                            <div class="input-single">
-                              <input type="text" name="fname" id="fname" placeholder="First Name" required >
+                              <input type="text" name="name" id="name" placeholder="Enter Your Full Name" required>
                            </div>
                            <div class="input-single">
-                              <input type="text" name="lname" id="lname" placeholder="Last Name" >
+                              <input type="number" name="phone" id="phone" placeholder="Enter Your Phone Number">
                            </div>
                         </div>
-                        <div class="input-group" data-aos="fade-up" data-aos-duration="1200">
-                           <div class="input-single">
-                              <input type="email" name="email" id="email" placeholder="Email" required >
-                           </div>
-                           <div class="input-single">
-                              <input type="number" name="phone" id="phone" placeholder="Phone Number" >
-                           </div>
-                        </div>
-                        <div class="input-group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" >
-                          
-                              <input type="number" name="address" id="address" placeholder="Address" class="form-control" required>
-                           
+
+                        <div class="input-group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+                           <input type="email" name="email" id="email" placeholder="Enter Your Address" class="form-control"
+                              required>
                         </div>
                         <div class="input-group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
-                           <textarea name="message" id="Message" placeholder="Message" ></textarea>
+                           <textarea name="message" id="Message" placeholder="Type Message..."></textarea>
                         </div>
                         <div class="text-center">
-                           <button type="submit" class="btn--primary" name="submit">Send Message</button>
+                           <button type="submit" class="btn--primary" name="submit">Submit</button>
                         </div>
                      </form>
                   </div>
@@ -164,15 +219,18 @@
       <!-- ==== / contact section end ==== -->
       <!-- ==== contact form section start ==== -->
       <section class="contact-form">
-         <div class="container">
-            <div class="row justify-content-center">
-               <div class="col-12 col-xl-5 col-xl-12">
-                  <div class="contact__map" data-aos="zoom-in" data-aos-duration="1200">
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.1488145273643!2d81.01756867612079!3d26.867012662051746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be2928071fa67%3A0x63e28bb34875f19f!2s1%2C%201%2F73%2C%20near%20Varan%20Jewellers%2C%20Vijayant%20Khand%2C%20Gomti%20Nagar%2C%20Lucknow%2C%20Uttar%20Pradesh%20226010!5e0!3m2!1sen!2sin!4v1748351002726!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                  </div>
+
+         <div class="row justify-content-center">
+            <div class="col-12 col-xl-5 col-xl-12">
+               <div class="contact__map" data-aos="zoom-in" data-aos-duration="1200">
+                  <iframe
+                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.1488145273643!2d81.01756867612079!3d26.867012662051746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be2928071fa67%3A0x63e28bb34875f19f!2s1%2C%201%2F73%2C%20near%20Varan%20Jewellers%2C%20Vijayant%20Khand%2C%20Gomti%20Nagar%2C%20Lucknow%2C%20Uttar%20Pradesh%20226010!5e0!3m2!1sen!2sin!4v1748351002726!5m2!1sen!2sin"
+                     width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                     referrerpolicy="no-referrer-when-downgrade"></iframe>
                </div>
             </div>
          </div>
+
       </section>
       <!-- ==== / contact form section end ==== -->
       <!-- ==== footer start ==== -->
@@ -248,7 +306,7 @@
 
                      Swal.fire({
                         icon: 'success',
-                        title: 'Message Sent!',
+                        title: 'Thank You!',
                         text: 'Your message has been sent successfully.',
                      }).then(function () {
 
