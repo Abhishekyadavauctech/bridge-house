@@ -4,16 +4,16 @@
         include('../db_con.php');
         include('header.php');
         // Get total count of projects
-        $total_blog = $con->query("SELECT COUNT(*) AS total FROM blogs")->fetch_assoc()['total'];
+        // $total_blog = $con->query("SELECT COUNT(*) AS total FROM blogs")->fetch_assoc()['total'];
         $total_query = $con->query("SELECT COUNT(*) AS total FROM contact")->fetch_assoc()['total'];
-        $total_testimonials = $con->query("SELECT COUNT(*) AS total FROM add_testimonial")->fetch_assoc()['total'];
+        // $total_testimonials = $con->query("SELECT COUNT(*) AS total FROM add_testimonial")->fetch_assoc()['total'];
         ?>
         <!-- END SIDEBAR-->
         <div class="content-wrapper">
             <!-- START PAGE CONTENT-->
             <div class="page-content fade-in-up">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6">
+                    <!-- <div class="col-lg-4 col-md-6">
                         <div class="ibox bg-success color-white widget-stat">
                             <div class="ibox-body">
                                 <h2 class="m-b-5 font-strong"><?php echo $total_blog; ?></h2>
@@ -21,7 +21,7 @@
 
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-lg-4 col-md-6">
                         <div class="ibox bg-info color-white widget-stat">
                             <div class="ibox-body">
@@ -31,7 +31,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
+                    <!-- <div class="col-lg-4 col-md-6">
                         <div class="ibox bg-info color-white widget-stat">
                             <div class="ibox-body">
                                 <h2 class="m-b-5 font-strong"><?php echo $total_testimonials; ?></h2>
@@ -39,7 +39,7 @@
 
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <?php

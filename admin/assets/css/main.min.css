@@ -4415,10 +4415,11 @@ a.text-danger:hover {
 }
 
 .header .dropdown-user a.dropdown-toggle img {
-    width: 30px;
-    -webkit-border-radius: 50%;
-    border-radius: 50%;
-    margin-right: 10px
+    width: 50px;
+    -webkit-border-radius: 0%;
+    border-radius: 0%;
+    margin-right: 10px;
+    height:30px;
 }
 
 .header .dropdown-user>.dropdown-menu .dropdown-item {
