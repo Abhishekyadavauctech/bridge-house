@@ -135,7 +135,7 @@
                            <p class="text-justify">At Bridge House, we craft performance-driven marketing campaigns tailored for the IT industry. From startups to established tech firms, we help you showcase innovation, build trust, and attract high-intent clients through SEO, paid ads, and automation — turning your technology into tangible business growth.
                            </p>
                            <div class="cta">
-                              <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
+                              <a href="contact-us.php" class="btn--primary">Contact Us</a>
                            </div>
                         </div>
                      </div>
@@ -154,7 +154,7 @@
                <div class="row justify-content-center">
                   <div class="col-12 col-xl-5">
                      <div class="section__header text-center">
-                        <span>Our IT Service</span>
+                        <span>Our Legal Service</span>
                         <h2 class="title-animation"> IT Marketing Services Tailored for Growth </h2>
                         <div class="icon-thumb justify-content-center">
                            <div class="icon-thumb-single">
@@ -242,7 +242,7 @@
                   <div class="col-12">
                      <div class="section__header text-center">
                         <!-- <span>Steps of Procedure</span> -->
-                        <h2 class="title-animation">Why Choose Bridge House for IT Service ?</h2>
+                        <h2 class="title-animation">Why Choose Bridge House for Legal Service ?</h2>
                         <div class="icon-thumb justify-content-center">
                            <div class="icon-thumb-single">
                               <span></span>

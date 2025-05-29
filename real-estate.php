@@ -135,7 +135,7 @@
                            <p class= "text-justify">At Bridge House, we specialize in driving growth for real estate businesses through strategic marketing that works. From digital campaigns to local targeting, we connect your properties with the right buyers—boosting inquiries, site visits, and sales with proven results.
                            </p>
                            <div class="cta">
-                              <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
+                              <a href="contact-us.php" class="btn--primary">Contact Us</a>
                            </div>
                         </div>
                      </div>

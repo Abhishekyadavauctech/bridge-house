@@ -135,7 +135,7 @@
                            <p class="text-justify">At Bridge House, we craft performance-driven marketing campaigns tailored for the IT industry. From startups to established tech firms, we help you showcase innovation, build trust, and attract high-intent clients through SEO, paid ads, and automation — turning your technology into tangible business growth.
                            </p>
                            <div class="cta">
-                              <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
+                              <a href="contact-us.php" class="btn--primary">Contact Us</a>
                            </div>
                         </div>
                      </div>

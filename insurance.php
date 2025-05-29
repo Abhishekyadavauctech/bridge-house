@@ -135,7 +135,7 @@
                            <p class="text-justify">At Bridge House, we specialize in performance-driven marketing solutions tailored for the insurance industry. From individual agents to large firms, we help you reach potential policyholders, boost engagement, and drive conversions with precision-targeted campaigns that deliver measurable results.
                            </p>
                            <div class="cta">
-                              <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
+                              <a href="contact-us.php" class="btn--primary">Contact Us</a>
                            </div>
                         </div>
                      </div>
@@ -320,79 +320,7 @@
             </div>
          </section>
          <!-- ==== / procedure section end ==== -->
-          <!-- ==== about us section start ==== -->
-         <!-- <section class="about">
-            <div class="container">
-               <div class="row vertical-column-gap-lg">
-                  <div class="col-12 col-xl-6">
-                     <div class="about__content">
-                        <div class="section__header mb-3">
-                           <span>About Us</span>
-                           <h2 class="title-animation">Welcome To Bridge House
-                           </h2>
-                           <div class="icon-thumb">
-                              <div class="icon-thumb-single">
-                                 <span></span>
-                                 <span></span>
-                              </div>
-                              <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
-                           </div>
-                        </div>
-                        <div class="about__content-inner" >
-                           <p class="text-justify">
-                              Bridgehouse is a performance-driven marketing company that works across a wide range of sectors and services. From real estate to software, consumer products, and professional services, we specialize in helping businesses grow through powerful, result-oriented marketing strategies.
-                           </p >
-                           <p class="text-justify">
-                              Our unique model involves running our own ads for different vendors and delivering qualified leads that turn into customers. We believe in performance, not just promises.
-                           </p>
-                           <div class="about__content-single mt-4" data-aos="fade-up" data-aos-duration="1200">
-                              <div class="thumb">
-                               <i > <img width="100" height="100" src="https://img.icons8.com/comic/100/1A1A1A/goal.png" alt="goal"/></i>
-                              </div>
-                              <div class="content">
-                                 <h5>Marketing That Delivers</h5>
-                                 <p>We run high-converting campaigns that bring in real, ready-to-buy leads.</p>
-                              </div>
-                           </div>
-                           <div class="about__content-single mt-4" data-aos="fade-up" data-aos-duration="1200">
-                              <div class="thumb">
-                                <i><img width="100" height="100" src="https://img.icons8.com/external-others-pike-picture/100/1A1A1A/external-Universal-Expert-expert-others-pike-picture-2.png" alt=""/></i>     
-                              </div>
-                              <div class="content">
-                                 <h5>Experts in Every Industry</h5>
-                                 <p>Our team understands what works best across real estate, tech, services, and more.</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-12 col-xl-6">
-                     <div class="about__thumb">
-                        <div class="about__thumb-single" data-aos="fade-right" data-aos-duration="1200">
-                           <img src="assets/images/thumb/about/About-Us-1.png" alt="Image">
-                           <div class="thumb">
-                              <img src="assets/images/thumb/about/path-one.png" alt="Image">
-                           </div>
-                        </div>
-                        <div class="about__thumb-single" data-aos="fade-left" data-aos-duration="1200">
-                           <img src="assets/images/thumb/about/About-Us-3.png" alt="Image">
-                           <div class="thumb">
-                              <img src="assets/images/thumb/about/path-two.png" alt="Image" class="filter-img">
-                           </div>
-                        </div>
-                        <div class="about__thumb-single" data-aos="fade-up" data-aos-duration="1200">
-                           <img src="assets/images/thumb/about/About-Us-2.png" alt="Image">
-                           <div class="thumb">
-                              <img src="assets/images/thumb/about/path-three.png" alt="Image">
-                           </div>
-                        </div>
-                        
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section> -->
-         <!-- ==== / about us section end ==== -->
+          
          <!-- ==== video counter section start ==== -->
          
          <!-- ==== collection section start ==== -->

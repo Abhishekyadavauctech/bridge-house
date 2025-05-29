@@ -135,7 +135,7 @@
                            <p class="text-justify">At Bridge House, we specialize in marketing solutions that help investment businesses grow with confidence. From independent advisors to large wealth firms, we create targeted campaigns that engage serious investors, showcase your expertise, and turn interest into long-term client relationships.
                            </p>
                            <div class="cta">
-                              <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
+                              <a href="contact-us.php" class="btn--primary">Contact Us</a>
                            </div>
                         </div>
                      </div>
