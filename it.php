@@ -25,6 +25,20 @@
       <!-- responsive css -->
       <link rel="stylesheet" href="assets/css/responsive.css">
       <script src="assets/js/jquery-3.7.1.min.js"></script>
+      <style>
+         .who{
+            margin-top:100px;
+            margin-bottom:100px;
+         }
+         .collection {
+            padding: 100px 0px;
+            background-color: #eef5ff;
+            overflow: clip;
+         }
+         .text-justify {
+            text-align: justify;
+         }
+      </style>
    </head>
    <body>
      
@@ -47,7 +61,7 @@
                <div class="row">
                   <div class="col-12">
                      <div class="common-banner__inner">
-                        <h2 class="title-animation">IT </h2>
+                        <h2 class="title-animation">IT  </h2>
                         <nav aria-label="breadcrumb">
                            <ol class="breadcrumb">
                               <li class="breadcrumb-item">
@@ -65,84 +79,7 @@
          </section>
          <!-- ==== / banner end ==== -->
          <!-- ==== about us section start ==== -->
-         <!-- ==== about us section start ==== -->
-         <section class="about">
-            <div class="container">
-               <div class="row vertical-column-gap-lg">
-                  <div class="col-12 col-xl-6">
-                     <div class="about__content">
-                        <div class="section__header mb-3">
-                           <span>About Us</span>
-                           <h2 class="title-animation">Welcome To Bridge House
-                           </h2>
-                           <div class="icon-thumb">
-                              <div class="icon-thumb-single">
-                                 <span></span>
-                                 <span></span>
-                              </div>
-                              <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
-                           </div>
-                        </div>
-                        <div class="about__content-inner" >
-                           <p class="text-justify">
-                              Bridgehouse is a performance-driven marketing company that works across a wide range of sectors and services. From real estate to software, consumer products, and professional services, we specialize in helping businesses grow through powerful, result-oriented marketing strategies.
-                           </p >
-                           <p class="text-justify">
-                              Our unique model involves running our own ads for different vendors and delivering qualified leads that turn into customers. We believe in performance, not just promises.
-                           </p>
-                           <div class="about__content-single mt-4" data-aos="fade-up" data-aos-duration="1200">
-                              <div class="thumb">
-                               <i > <img width="100" height="100" src="https://img.icons8.com/comic/100/1A1A1A/goal.png" alt="goal"/></i>
-                              </div>
-                              <div class="content">
-                                 <h5>Marketing That Delivers</h5>
-                                 <p>We run high-converting campaigns that bring in real, ready-to-buy leads.</p>
-                              </div>
-                           </div>
-                           <div class="about__content-single mt-4" data-aos="fade-up" data-aos-duration="1200">
-                              <div class="thumb">
-                                <i><img width="100" height="100" src="https://img.icons8.com/external-others-pike-picture/100/1A1A1A/external-Universal-Expert-expert-others-pike-picture-2.png" alt=""/></i>     
-                              </div>
-                              <div class="content">
-                                 <h5>Experts in Every Industry</h5>
-                                 <p>Our team understands what works best across real estate, tech, services, and more.</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-12 col-xl-6">
-                     <div class="about__thumb">
-                        <div class="about__thumb-single" data-aos="fade-right" data-aos-duration="1200">
-                           <img src="assets/images/thumb/about/About-Us-1.png" alt="Image">
-                           <div class="thumb">
-                              <img src="assets/images/thumb/about/path-one.png" alt="Image">
-                           </div>
-                        </div>
-                        <div class="about__thumb-single" data-aos="fade-left" data-aos-duration="1200">
-                           <img src="assets/images/thumb/about/About-Us-3.png" alt="Image">
-                           <div class="thumb">
-                              <img src="assets/images/thumb/about/path-two.png" alt="Image" class="filter-img">
-                           </div>
-                        </div>
-                        <div class="about__thumb-single" data-aos="fade-up" data-aos-duration="1200">
-                           <img src="assets/images/thumb/about/About-Us-2.png" alt="Image">
-                           <div class="thumb">
-                              <img src="assets/images/thumb/about/path-three.png" alt="Image">
-                           </div>
-                        </div>
-                        <!-- <div class="video-btn-wrapper">
-                           <a href="https://www.youtube.com/watch?v=RvreULjnzFo" target="_blank"
-                              title="video Player" class="open-video-popup">
-                           <i class="fa-solid fa-play"></i>
-                           </a>
-                        </div> -->
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <!-- ==== / about us section end ==== -->
+         
          <!-- ==== / about us section end ==== -->
          <!-- ==== who we are section start ==== -->
          <section class="who">
@@ -163,9 +100,8 @@
                   <div class="col-12 col-xl-6">
                      <div class="who__content">
                         <div class="section__header">
-                           <span>Who We Are</span>
-                           <h2 class="title-animation">We Provide You Best Service
-                              Of Landsquare Townships 
+                           <span>IT Services </span>
+                           <h2 class="title-animation">Accelerate Your Tech Brand with Smart, Scalable Campaigns
                            </h2>
                            <div class="icon-thumb">
                               <div class="icon-thumb-single">
@@ -176,7 +112,7 @@
                            </div>
                         </div>
                         <div class="about__content-inner">
-                           <p>Bridge House is a results-driven marketing agency that partners with businesses to fuel growth through strategic, lead-focused campaigns. With expertise across industries like real estate, tech, and consumer services, we turn marketing into measurable success.
+                           <p class="text-justify">At Bridge House, we specialize in helping IT and tech businesses generate leads, boost brand visibility, and scale rapidly in competitive markets. Whether you're offering SaaS, enterprise solutions, web development, or IT services — our data-driven marketing strategies connect you with the right decision-makers.
                            </p>
                            <div class="about-content__wrapper">
                               <div class="about__content-single">
@@ -184,7 +120,7 @@
                                     <i class="flaticon-mansion"></i>
                                  </div>
                                  <div class="content">
-                                    <h6>Tailored Real Estate Solutions</h6>
+                                    <h6>Tech-Savvy Strategies</h6>
                                  </div>
                               </div>
                               <div class="about__content-single">
@@ -192,11 +128,11 @@
                                     <i class="flaticon-modern-house"></i>
                                  </div>
                                  <div class="content">
-                                    <h6>Land Development </h6>
+                                    <h6>Brand Visibility Growth</h6>
                                  </div>
                               </div>
                            </div>
-                           <p>Bridge House helps brands connect with the right audience through smart, conversion-focused marketing. Our approach is simple — performance over promises, always. Whether you're in real estate, software, or services, we deliver campaigns that drive growth and visibility.
+                           <p class="text-justify">At Bridge House, we craft performance-driven marketing campaigns tailored for the IT industry. From startups to established tech firms, we help you showcase innovation, build trust, and attract high-intent clients through SEO, paid ads, and automation — turning your technology into tangible business growth.
                            </p>
                            <div class="cta">
                               <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
@@ -212,6 +148,93 @@
             <div class="z-shape-sq d-none d-xl-block"></div>
          </section>
          <!-- ==== / who we are section end ==== -->
+          <!-- ==== service section start ==== -->
+         <section class="service" data-background="assets/images/background/service-bg.png">
+            <div class="container">
+               <div class="row justify-content-center">
+                  <div class="col-12 col-xl-5">
+                     <div class="section__header text-center">
+                        <span>Our IT Service</span>
+                        <h2 class="title-animation"> IT Marketing Services Tailored for Growth </h2>
+                        <div class="icon-thumb justify-content-center">
+                           <div class="icon-thumb-single">
+                              <span></span>
+                              <span></span>
+                           </div>
+                           <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
+                           <div class="icon-thumb-single">
+                              <span></span>
+                              <span></span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row vertical-column-gap-sm justify-content-center">
+                  
+                  <div class="col-12 col-lg-4 col-xl-4 order-3 order-lg-2">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200"
+                        data-aos-delay="200">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">Lead Generation for IT Services </a></h4>
+                           <p>Attract qualified leads for web development, software solutions, and managed services.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 order-2 order-lg-3">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">B2B Tech Campaigns</a></h4>
+                           <p>Reach CTOs, IT heads, and business owners through precision-targeted campaigns.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 order-2 order-lg-3">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">SEO & Content Marketing</a></h4>
+                           <p>Establish thought leadership and rank high for industry-relevant keywords.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 order-2 order-lg-3">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#"> LinkedIn & Google Ads</a></h4>
+                           <p>Target professionals and businesses looking for tech solutions.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200">
+                        <div class="thumb">
+                            <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">SaaS & Product Marketing</a></h4>
+                           <p>Drive free trials, demos, and subscriptions with result-focused ad strategies.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <!-- ==== / service section end ==== -->
+         
          <!-- ==== procedure section start ==== -->
          <section class="procedure">
             <div class="container">
@@ -219,7 +242,7 @@
                   <div class="col-12">
                      <div class="section__header text-center">
                         <!-- <span>Steps of Procedure</span> -->
-                        <h2 class="title-animation">Why Choose Bridge House</h2>
+                        <h2 class="title-animation">Why Choose Bridge House for IT Service ?</h2>
                         <div class="icon-thumb justify-content-center">
                            <div class="icon-thumb-single">
                               <span></span>
@@ -245,8 +268,8 @@
                                      <i ><img width="80" height="80" src="https://img.icons8.com/dotty/80/1A1A1A/stocks-growth.png" alt=""/></i>
                                  </div>
                                  <div class="content">
-                                    <h4> Strong Sales Strategy</h4>
-                                    <p>We know how to turn marketing into real, measurable sales.</p>
+                                    <h4> Industry-Focused Expertise</h4>
+                                    <p>We combine deep tech knowledge with marketing savvy to deliver campaigns that resonate.</p>
                                  </div>
                               </div>
                            </div>
@@ -257,8 +280,8 @@
                                     <i ><img width="80" height="80"  src="https://img.icons8.com/ios/1A1A1A/development-skill.png" alt=""/></i>
                                  </div>
                                  <div class="content">
-                                    <h4>Multi-Industry Expertise</h4>
-                                    <p>We market products and services across various sectors with proven success.
+                                    <h4>Results-Driven Campaigns</h4>
+                                    <p> Every strategy is crafted to generate leads, increase conversions, and drive ROI.
                                     </p>
                                  </div>
                               </div>
@@ -270,8 +293,8 @@
                                     <i ><img width="80" height="80" src="https://img.icons8.com/ios-filled/1A1A1A/conference.png" alt=""/></i>
                                  </div>
                                  <div class="content">
-                                    <h4> Lead-Driven Results</h4>
-                                    <p>Our campaigns focus on generating quality leads that help you grow.</p>
+                                    <h4> Comprehensive Digital Solutions </h4>
+                                    <p>From targeted ads to lead nurturing and automation, we cover your entire marketing funnel.</p>
                                  </div>
                               </div>
                            </div>
@@ -282,8 +305,8 @@
                                    <i > <img width="80" height="80" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/1A1A1A/external-shield-user-interface-anggara-basic-outline-anggara-putra-3.png" alt=""/></i>
                                  </div>
                                  <div class="content">
-                                    <h4>Trusted by Vendors</h4>
-                                    <p>Vendors rely on us to boost visibility and drive performance.</p>
+                                    <h4> Flexible & Scalable Services  </h4>
+                                    <p> Supporting startups to large enterprises with tailored solutions that grow with you.</p>
                                  </div>
                               </div>
                            </div>
@@ -297,28 +320,8 @@
             </div>
          </section>
          <!-- ==== / procedure section end ==== -->
-         <!-- ==== video counter section start ==== -->
-         <!-- <section class="video-counter">
-            <div class="container">
-               <div class="row">
-                  <div class="col-12 col-xl-11">
-                     <div class="video-counter__thumb">
-                        <img src="assets/images/thumb/video-thumb.png" alt="Image" class="parallax-image">
-                        <div class="vid-wrap">
-                           <div class="video-btn-wrapper">
-                              <a href="https://www.youtube.com/watch?v=RvreULjnzFo" target="_blank"
-                                 title="video Player" class="open-video-popup">
-                              <i class="fa-solid fa-play"></i>
-                              </a>
-                           </div>
-                           <h4>Watch Video</h4>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section> -->
-         <!-- ==== / video counter section end ==== -->
+        
+         
          <!-- ==== collection section start ==== -->
          <section class="collection">
             <div class="container">
@@ -342,7 +345,7 @@
                   <div class="col-12 col-xl-5">
                      <div class="collection__content">
                         <div class="section__header">
-                           <h2 class="title-animation">Built to Serve Every Business Model
+                           <h2 class="title-animation">Who We Work With
                            </h2>
                            <div class="icon-thumb">
                               <div class="icon-thumb-single">
@@ -358,8 +361,8 @@
                                  <i class="flaticon-house-2"></i>
                               </div>
                               <div class="content">
-                                 <h4>Innovation-Led Approach</h4>
-                                 <p>Innovation and insight drive our approach in all sectors we touch.</p>
+                                 <h4>Web & App Development Agencies</h4>
+                                 <p>Helping agencies showcase projects and attract high-quality clients.</p>
                               </div>
                            </div>
                            <div class="group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
@@ -367,8 +370,8 @@
                                  <i class="flaticon-shield"></i>
                               </div>
                               <div class="content">
-                                 <h4>Audience-Driven Execution</h4>
-                                 <p>No matter the field, we help you connect, engage, and convert your audience.</p>
+                                 <h4>Tech Startups</h4>
+                                 <p>Fueling rapid growth with focused brand awareness and lead generation.</p>
                               </div>
                            </div>
                            <div class="group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
@@ -376,8 +379,8 @@
                                  <i class="flaticon-location"></i>
                               </div>
                               <div class="content">
-                                 <h4>Support for All Business Sizes</h4>
-                                 <p>From startups to established firms, we support all with equal expertise.</p> 
+                                 <h4>Cloud & Hosting Providers</h4>
+                                 <p>Promoting scalable cloud solutions to businesses of all sizes.</p> 
                                  
                               </div>
                            </div>

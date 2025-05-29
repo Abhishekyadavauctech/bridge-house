@@ -25,6 +25,20 @@
       <!-- responsive css -->
       <link rel="stylesheet" href="assets/css/responsive.css">
       <script src="assets/js/jquery-3.7.1.min.js"></script>
+      <style>
+         .who{
+            margin-top:100px;
+            margin-bottom:100px;
+         }
+         .collection {
+            padding: 100px 0px;
+            background-color: #eef5ff;
+            overflow: clip;
+         }
+         .text-justify {
+            text-align: justify;
+         }
+      </style>
    </head>
    <body>
      
@@ -47,7 +61,7 @@
                <div class="row">
                   <div class="col-12">
                      <div class="common-banner__inner">
-                        <h2 class="title-animation">Finance </h2>
+                        <h2 class="title-animation">Finance  </h2>
                         <nav aria-label="breadcrumb">
                            <ol class="breadcrumb">
                               <li class="breadcrumb-item">
@@ -65,8 +79,249 @@
          </section>
          <!-- ==== / banner end ==== -->
          <!-- ==== about us section start ==== -->
-         <!-- ==== about us section start ==== -->
-         <section class="about">
+         
+         <!-- ==== / about us section end ==== -->
+         <!-- ==== who we are section start ==== -->
+         <section class="who">
+            <div class="container">
+               <div class="row vertical-column-gap">
+                  <div class="col-12 col-xl-6">
+                     <div class="who__thumb">
+                        <div class="thumb-lg" data-aos="zoom-in" data-aos-duration="1200">
+                           <img src="assets/images/thumb/who/thumb-lg.png" alt="Image">
+                        </div>
+                        <div class="thumb-sm">
+                           <img src="assets/images/thumb/who/thumb-sm.png" alt="Image" data-aos="zoom-in"
+                              data-aos-duration="1200" data-aos-delay="200">
+                           
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-xl-6">
+                     <div class="who__content">
+                        <div class="section__header">
+                           <span>Finance  </span>
+                           <h2 class="title-animation">Fuel Your Insurance Business with Quality Leads
+                           </h2>
+                           <div class="icon-thumb">
+                              <div class="icon-thumb-single">
+                                 <span></span>
+                                 <span></span>
+                              </div>
+                              <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
+                           </div>
+                        </div>
+                        <div class="about__content-inner">
+                           <p class="text-justify">At Bridge House, we offer powerful marketing solutions designed for the financial sector. From loan providers to fintech startups, we help finance brands grow with trust-driven, lead-focused campaigns that deliver real business results.
+                           </p>
+                           <div class="about-content__wrapper">
+                              <div class="about__content-single">
+                                 <div class="thumb">
+                                    <i class="flaticon-mansion"></i>
+                                 </div>
+                                 <div class="content">
+                                    <h6> Targeted Lead Generation  </h6>
+                                 </div>
+                              </div>
+                              <div class="about__content-single">
+                                 <div class="thumb">
+                                    <i class="flaticon-modern-house"></i>
+                                 </div>
+                                 <div class="content">
+                                    <h6>Performance-Driven Growth</h6>
+                                 </div>
+                              </div>
+                           </div>
+                           <p class="text-justify">At Bridge House, we specialize in crafting targeted marketing strategies tailored for the finance industry. Whether you’re a lending institution, investment firm, or fintech innovator, we drive qualified leads and build lasting customer relationships through data-backed, performance-oriented campaigns.
+                           </p>
+                           <div class="cta">
+                              <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="z-shape d-none d-xl-block"></div>
+            <div class="z-shape-l d-none d-xl-block"></div>
+            <div class="z-shape-s d-none d-xl-block"></div>
+            <div class="z-shape-sq d-none d-xl-block"></div>
+         </section>
+         <!-- ==== / who we are section end ==== -->
+          <!-- ==== service section start ==== -->
+         <section class="service" data-background="assets/images/background/service-bg.png">
+            <div class="container">
+               <div class="row justify-content-center">
+                  <div class="col-12 col-xl-5">
+                     <div class="section__header text-center">
+                        <span>Our Finance Service</span>
+                        <h2 class="title-animation">Customized Marketing for Financial Success </h2>
+                        <div class="icon-thumb justify-content-center">
+                           <div class="icon-thumb-single">
+                              <span></span>
+                              <span></span>
+                           </div>
+                           <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
+                           <div class="icon-thumb-single">
+                              <span></span>
+                              <span></span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row vertical-column-gap-sm justify-content-center">
+                  
+                  <div class="col-12 col-lg-4 col-xl-4 order-3 order-lg-2">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200"
+                        data-aos-delay="200">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">Lead Generation for Finance Services </a></h4>
+                           <p>We drive high-intent leads for personal loans, business finance, credit services, and more.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 order-2 order-lg-3">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">Performance Marketing Campaigns</a></h4>
+                           <p>Ads that convert — across Google, Facebook, YouTube, and beyond.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 order-2 order-lg-3">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">WhatsApp + CRM Integration</a></h4>
+                           <p> Streamline communication, manage leads, and close deals faster.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 order-2 order-lg-3">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="thumb">
+                           <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#"> Local Market Targeting </a></h4>
+                           <p> SEO and location-based strategies to boost discoverability.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4">
+                     <div class="service__single service__single-active" data-aos="fade-up" data-aos-duration="1200">
+                        <div class="thumb">
+                            <i class="flaticon-deal"></i>
+                        </div>
+                        <div class="content">
+                           <h4><a href="#">Financial Funnel Optimization</a></h4>
+                           <p>From ad click to conversion — we fine-tune every step.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <!-- ==== / service section end ==== -->
+         
+         <!-- ==== procedure section start ==== -->
+         <section class="procedure">
+            <div class="container">
+               <div class="row justify-content-center">
+                  <div class="col-12">
+                     <div class="section__header text-center">
+                        <!-- <span>Steps of Procedure</span> -->
+                        <h2 class="title-animation">Why Choose Bridge House for Finance ?</h2>
+                        <div class="icon-thumb justify-content-center">
+                           <div class="icon-thumb-single">
+                              <span></span>
+                              <span></span>
+                           </div>
+                           <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
+                           <div class="icon-thumb-single">
+                              <span></span>
+                              <span></span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-12">
+                     <div class="procedure__inner">
+                        <div class="row vertical-column-gap-lg">
+                           <div class="col-12 col-md-6 col-xl-3">
+                              <div class="procedure__single" data-aos="fade-up" data-aos-duration="1200">
+                                 <div class="thumb">
+                                    
+                                     <i ><img width="80" height="80" src="https://img.icons8.com/dotty/80/1A1A1A/stocks-growth.png" alt=""/></i>
+                                 </div>
+                                 <div class="content">
+                                    <h4> Deep Finance Expertise</h4>
+                                    <p>We understand the trust, compliance, and clarity finance demands.</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-12 col-md-6 col-xl-3">
+                              <div class="procedure__single procedure__single-alter" data-aos="fade-up"
+                                 data-aos-duration="1200" data-aos-delay="200">
+                                 <div class="thumb">
+                                    <i ><img width="80" height="80"  src="https://img.icons8.com/ios/1A1A1A/development-skill.png" alt=""/></i>
+                                 </div>
+                                 <div class="content">
+                                    <h4>B2C & B2B Experience </h4>
+                                    <p> Effective for both individual clients and corporate services.
+                                    </p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-12 col-md-6 col-xl-3">
+                              <div class="procedure__single procedure__single-alter" data-aos="fade-up"
+                                 data-aos-duration="1200" data-aos-delay="400">
+                                 <div class="thumb">
+                                    <i ><img width="80" height="80" src="https://img.icons8.com/ios-filled/1A1A1A/conference.png" alt=""/></i>
+                                 </div>
+                                 <div class="content">
+                                    <h4>Transparent Reporting </h4>
+                                    <p>Know where every click, lead, and budget rupee goes.</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-12 col-md-6 col-xl-3">
+                              <div class="procedure__single" data-aos="fade-up" data-aos-duration="1200"
+                                 data-aos-delay="600">
+                                 <div class="thumb">
+                                   <i > <img width="80" height="80" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/1A1A1A/external-shield-user-interface-anggara-basic-outline-anggara-putra-3.png" alt=""/></i>
+                                 </div>
+                                 <div class="content">
+                                    <h4>Scalable Support  </h4>
+                                    <p> Whether you're a fintech startup or established NBFC, we grow with you.</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="line">
+                           <img src="assets/images/icon/line.png" alt="Image" class="filter-img">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <!-- ==== / procedure section end ==== -->
+          <!-- ==== about us section start ==== -->
+         <!-- <section class="about">
             <div class="container">
                <div class="row vertical-column-gap-lg">
                   <div class="col-12 col-xl-6">
@@ -131,194 +386,15 @@
                               <img src="assets/images/thumb/about/path-three.png" alt="Image">
                            </div>
                         </div>
-                        <!-- <div class="video-btn-wrapper">
-                           <a href="https://www.youtube.com/watch?v=RvreULjnzFo" target="_blank"
-                              title="video Player" class="open-video-popup">
-                           <i class="fa-solid fa-play"></i>
-                           </a>
-                        </div> -->
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <!-- ==== / about us section end ==== -->
-         <!-- ==== / about us section end ==== -->
-         <!-- ==== who we are section start ==== -->
-         <section class="who">
-            <div class="container">
-               <div class="row vertical-column-gap">
-                  <div class="col-12 col-xl-6">
-                     <div class="who__thumb">
-                        <div class="thumb-lg" data-aos="zoom-in" data-aos-duration="1200">
-                           <img src="assets/images/thumb/who/thumb-lg.png" alt="Image">
-                        </div>
-                        <div class="thumb-sm">
-                           <img src="assets/images/thumb/who/thumb-sm.png" alt="Image" data-aos="zoom-in"
-                              data-aos-duration="1200" data-aos-delay="200">
-                           
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-12 col-xl-6">
-                     <div class="who__content">
-                        <div class="section__header">
-                           <span>Who We Are</span>
-                           <h2 class="title-animation">We Provide You Best Service
-                              Of Landsquare Townships 
-                           </h2>
-                           <div class="icon-thumb">
-                              <div class="icon-thumb-single">
-                                 <span></span>
-                                 <span></span>
-                              </div>
-                              <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
-                           </div>
-                        </div>
-                        <div class="about__content-inner">
-                           <p>Bridge House is a results-driven marketing agency that partners with businesses to fuel growth through strategic, lead-focused campaigns. With expertise across industries like real estate, tech, and consumer services, we turn marketing into measurable success.
-                           </p>
-                           <div class="about-content__wrapper">
-                              <div class="about__content-single">
-                                 <div class="thumb">
-                                    <i class="flaticon-mansion"></i>
-                                 </div>
-                                 <div class="content">
-                                    <h6>Tailored Real Estate Solutions</h6>
-                                 </div>
-                              </div>
-                              <div class="about__content-single">
-                                 <div class="thumb">
-                                    <i class="flaticon-modern-house"></i>
-                                 </div>
-                                 <div class="content">
-                                    <h6>Land Development </h6>
-                                 </div>
-                              </div>
-                           </div>
-                           <p>Bridge House helps brands connect with the right audience through smart, conversion-focused marketing. Our approach is simple — performance over promises, always. Whether you're in real estate, software, or services, we deliver campaigns that drive growth and visibility.
-                           </p>
-                           <div class="cta">
-                              <a href="https://landsquaretownships.in/contact-us.php" class="btn--primary">Contact Us</a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="z-shape d-none d-xl-block"></div>
-            <div class="z-shape-l d-none d-xl-block"></div>
-            <div class="z-shape-s d-none d-xl-block"></div>
-            <div class="z-shape-sq d-none d-xl-block"></div>
-         </section>
-         <!-- ==== / who we are section end ==== -->
-         <!-- ==== procedure section start ==== -->
-         <section class="procedure">
-            <div class="container">
-               <div class="row justify-content-center">
-                  <div class="col-12">
-                     <div class="section__header text-center">
-                        <!-- <span>Steps of Procedure</span> -->
-                        <h2 class="title-animation">Why Choose Bridge House</h2>
-                        <div class="icon-thumb justify-content-center">
-                           <div class="icon-thumb-single">
-                              <span></span>
-                              <span></span>
-                           </div>
-                           <img src="assets/images/sub-icon.png" alt="Image" class="filter-img">
-                           <div class="icon-thumb-single">
-                              <span></span>
-                              <span></span>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-12">
-                     <div class="procedure__inner">
-                        <div class="row vertical-column-gap-lg">
-                           <div class="col-12 col-md-6 col-xl-3">
-                              <div class="procedure__single" data-aos="fade-up" data-aos-duration="1200">
-                                 <div class="thumb">
-                                    
-                                     <i ><img width="80" height="80" src="https://img.icons8.com/dotty/80/1A1A1A/stocks-growth.png" alt=""/></i>
-                                 </div>
-                                 <div class="content">
-                                    <h4> Strong Sales Strategy</h4>
-                                    <p>We know how to turn marketing into real, measurable sales.</p>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-12 col-md-6 col-xl-3">
-                              <div class="procedure__single procedure__single-alter" data-aos="fade-up"
-                                 data-aos-duration="1200" data-aos-delay="200">
-                                 <div class="thumb">
-                                    <i ><img width="80" height="80"  src="https://img.icons8.com/ios/1A1A1A/development-skill.png" alt=""/></i>
-                                 </div>
-                                 <div class="content">
-                                    <h4>Multi-Industry Expertise</h4>
-                                    <p>We market products and services across various sectors with proven success.
-                                    </p>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-12 col-md-6 col-xl-3">
-                              <div class="procedure__single procedure__single-alter" data-aos="fade-up"
-                                 data-aos-duration="1200" data-aos-delay="400">
-                                 <div class="thumb">
-                                    <i ><img width="80" height="80" src="https://img.icons8.com/ios-filled/1A1A1A/conference.png" alt=""/></i>
-                                 </div>
-                                 <div class="content">
-                                    <h4> Lead-Driven Results</h4>
-                                    <p>Our campaigns focus on generating quality leads that help you grow.</p>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-12 col-md-6 col-xl-3">
-                              <div class="procedure__single" data-aos="fade-up" data-aos-duration="1200"
-                                 data-aos-delay="600">
-                                 <div class="thumb">
-                                   <i > <img width="80" height="80" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/1A1A1A/external-shield-user-interface-anggara-basic-outline-anggara-putra-3.png" alt=""/></i>
-                                 </div>
-                                 <div class="content">
-                                    <h4>Trusted by Vendors</h4>
-                                    <p>Vendors rely on us to boost visibility and drive performance.</p>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="line">
-                           <img src="assets/images/icon/line.png" alt="Image" class="filter-img">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <!-- ==== / procedure section end ==== -->
-         <!-- ==== video counter section start ==== -->
-         <!-- <section class="video-counter">
-            <div class="container">
-               <div class="row">
-                  <div class="col-12 col-xl-11">
-                     <div class="video-counter__thumb">
-                        <img src="assets/images/thumb/video-thumb.png" alt="Image" class="parallax-image">
-                        <div class="vid-wrap">
-                           <div class="video-btn-wrapper">
-                              <a href="https://www.youtube.com/watch?v=RvreULjnzFo" target="_blank"
-                                 title="video Player" class="open-video-popup">
-                              <i class="fa-solid fa-play"></i>
-                              </a>
-                           </div>
-                           <h4>Watch Video</h4>
-                        </div>
+                        
                      </div>
                   </div>
                </div>
             </div>
          </section> -->
-         <!-- ==== / video counter section end ==== -->
+         <!-- ==== / about us section end ==== -->
+         <!-- ==== video counter section start ==== -->
+         
          <!-- ==== collection section start ==== -->
          <section class="collection">
             <div class="container">
@@ -342,7 +418,7 @@
                   <div class="col-12 col-xl-5">
                      <div class="collection__content">
                         <div class="section__header">
-                           <h2 class="title-animation">Built to Serve Every Business Model
+                           <h2 class="title-animation">Who We Work With
                            </h2>
                            <div class="icon-thumb">
                               <div class="icon-thumb-single">
@@ -358,8 +434,8 @@
                                  <i class="flaticon-house-2"></i>
                               </div>
                               <div class="content">
-                                 <h4>Innovation-Led Approach</h4>
-                                 <p>Innovation and insight drive our approach in all sectors we touch.</p>
+                                 <h4>NBFCs & Loan Agencies</h4>
+                                 <p>We help lending institutions reach borrowers through targeted, high-conversion campaigns.</p>
                               </div>
                            </div>
                            <div class="group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
@@ -367,8 +443,8 @@
                                  <i class="flaticon-shield"></i>
                               </div>
                               <div class="content">
-                                 <h4>Audience-Driven Execution</h4>
-                                 <p>No matter the field, we help you connect, engage, and convert your audience.</p>
+                                 <h4>  Fintech Startups </h4>
+                                 <p>From app installs to lead generation, we power growth for emerging digital finance platforms.</p>
                               </div>
                            </div>
                            <div class="group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
@@ -376,8 +452,8 @@
                                  <i class="flaticon-location"></i>
                               </div>
                               <div class="content">
-                                 <h4>Support for All Business Sizes</h4>
-                                 <p>From startups to established firms, we support all with equal expertise.</p> 
+                                 <h4>Tax & Financial Advisory Firms</h4>
+                                 <p>We generate leads for tax planning, filing, and financial consulting services.</p> 
                                  
                               </div>
                            </div>

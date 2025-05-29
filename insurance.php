@@ -155,7 +155,7 @@
                   <div class="col-12 col-xl-5">
                      <div class="section__header text-center">
                         <span>Our Insurance Marketing Services</span>
-                        <h2 class="title-animation">High-Impact Services to Promote Your Projects</h2>
+                        <h2 class="title-animation">Insurance Marketing That Delivers Real Results  </h2>
                         <div class="icon-thumb justify-content-center">
                            <div class="icon-thumb-single">
                               <span></span>
@@ -179,8 +179,8 @@
                            <i class="flaticon-deal"></i>
                         </div>
                         <div class="content">
-                           <h4><a href="#">Property Showcasing</a></h4>
-                           <p>High-quality images, walkthrough videos, and virtual tours that highlight every detail of your project.
+                           <h4><a href="#">Targeted Lead Generation </a></h4>
+                           <p>Connect with people actively searching for insurance.
                            </p>
                         </div>
                      </div>
@@ -191,8 +191,8 @@
                            <i class="flaticon-deal"></i>
                         </div>
                         <div class="content">
-                           <h4><a href="#">Digital Ads & Campaigns</a></h4>
-                           <p>We run customized campaigns on platforms like Google, Facebook, and Instagram to reach genuine property buyers.
+                           <h4><a href="#">Digital Advertising</a></h4>
+                           <p>Run high-impact campaigns on Google, Facebook & more.
                            </p>
                         </div>
                      </div>
@@ -204,7 +204,7 @@
                         </div>
                         <div class="content">
                            <h4><a href="#">Local SEO & Google Presence</a></h4>
-                           <p>Promoting software products to grow users and boost your brand presence.</p>
+                           <p> Be found by nearby customers looking for policies.</p>
                         </div>
                      </div>
                   </div>
@@ -214,8 +214,8 @@
                            <i class="flaticon-deal"></i>
                         </div>
                         <div class="content">
-                           <h4><a href="#"> Lead Generation</a></h4>
-                           <p> We run targeted ad campaigns to deliver genuine buyer leads — not just clicks or casual interest.</p>
+                           <h4><a href="#">WhatsApp & CRM Integration </a></h4>
+                           <p> Manage inquiries and follow-ups easily.</p>
                         </div>
                      </div>
                   </div>
@@ -225,8 +225,8 @@
                             <i class="flaticon-deal"></i>
                         </div>
                         <div class="content">
-                           <h4><a href="#">WhatsApp & CRM Integration</a></h4>
-                           <p>Capture inquiries directly through WhatsApp and manage leads effortlessly through CRM tools.</p>
+                           <h4><a href="#">Custom Strategy Development</a></h4>
+                           <p>Tailored plans for life, health, motor & general insurance.</p>
                         </div>
                      </div>
                   </div>
@@ -242,7 +242,7 @@
                   <div class="col-12">
                      <div class="section__header text-center">
                         <!-- <span>Steps of Procedure</span> -->
-                        <h2 class="title-animation">Why Choose Bridge House for Real Estate Marketing?</h2>
+                        <h2 class="title-animation">Why Choose Bridge House for Insurance ?</h2>
                         <div class="icon-thumb justify-content-center">
                            <div class="icon-thumb-single">
                               <span></span>
@@ -268,8 +268,8 @@
                                      <i ><img width="80" height="80" src="https://img.icons8.com/dotty/80/1A1A1A/stocks-growth.png" alt=""/></i>
                                  </div>
                                  <div class="content">
-                                    <h4> Buyer-Focused Strategy </h4>
-                                    <p>We target high-intent audiences who are ready to invest.</p>
+                                    <h4>  Financial Protection </h4>
+                                    <p> Safeguards you and your family against unexpected expenses.</p>
                                  </div>
                               </div>
                            </div>
@@ -280,8 +280,8 @@
                                     <i ><img width="80" height="80"  src="https://img.icons8.com/ios/1A1A1A/development-skill.png" alt=""/></i>
                                  </div>
                                  <div class="content">
-                                    <h4>Industry Expertise </h4>
-                                    <p>Deep understanding of real estate buyer behavior
+                                    <h4> Healthcare Security </h4>
+                                    <p>Health insurance covers medical bills and hospital costs.
                                     </p>
                                  </div>
                               </div>
@@ -293,8 +293,8 @@
                                     <i ><img width="80" height="80" src="https://img.icons8.com/ios-filled/1A1A1A/conference.png" alt=""/></i>
                                  </div>
                                  <div class="content">
-                                    <h4> Performance Tracking</h4>
-                                    <p>Real-time analytics and reporting on lead quality and ROI.</p>
+                                    <h4> Risk Management </h4>
+                                    <p> Minimizes financial risk in case of emergencies or loss.</p>
                                  </div>
                               </div>
                            </div>
@@ -305,8 +305,8 @@
                                    <i > <img width="80" height="80" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/1A1A1A/external-shield-user-interface-anggara-basic-outline-anggara-putra-3.png" alt=""/></i>
                                  </div>
                                  <div class="content">
-                                    <h4> Lead-Focused Campaigns </h4>
-                                    <p>We don’t just create ads — we deliver conversions</p>
+                                    <h4> Secure Your Future  </h4>
+                                    <p>Plan long-term goals like education, retirement, or child’s marriage.</p>
                                  </div>
                               </div>
                            </div>
@@ -434,8 +434,8 @@
                                  <i class="flaticon-house-2"></i>
                               </div>
                               <div class="content">
-                                 <h4>Real Estate Agents & Brokers</h4>
-                                 <p>Our marketing solutions empower agents and brokers to reach more buyers and close deals faster.</p>
+                                 <h4>General Insurance Companies</h4>
+                                 <p>Promoting travel, home, fire, and asset insurance.</p>
                               </div>
                            </div>
                            <div class="group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
@@ -443,8 +443,8 @@
                                  <i class="flaticon-shield"></i>
                               </div>
                               <div class="content">
-                                 <h4>Commercial Property Firms</h4>
-                                 <p>We drive serious investor interest and inquiries for office spaces, retail, and commercial projects.</p>
+                                 <h4> Online Insurance Platforms </h4>
+                                 <p>Boosting traffic and conversions for digital-first brands.</p>
                               </div>
                            </div>
                            <div class="group" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
@@ -452,8 +452,8 @@
                                  <i class="flaticon-location"></i>
                               </div>
                               <div class="content">
-                                 <h4>Luxury & Premium Project Owners</h4>
-                                 <p>We create high-end campaigns that match your premium offerings and attract elite buyers.</p> 
+                                 <h4>Individual Insurance Agents</h4>
+                                 <p>Helping solo professionals grow their client base.</p> 
                                  
                               </div>
                            </div>
